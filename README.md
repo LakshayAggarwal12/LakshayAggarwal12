@@ -38,7 +38,7 @@ A Software Developer from India passionate about Backend Engineering, MERN Stack
   <a href="mailto:lakshayagarwal2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1faRO7pXGEJgIfpy9nhQBzscxsM63riK9/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1gqr7CwEsKK33eGNgoc_nGsdUef2Ix9gp/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-lakshay__1205-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: lakshay_1205"/>
