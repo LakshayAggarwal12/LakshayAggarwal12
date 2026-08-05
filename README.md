@@ -22,7 +22,7 @@ A Software Developer from India passionate about Backend Engineering, MERN Stack
 - 🎯 **Career Goal:** Software Engineer (Full-Stack Developer)
 - 💬 **Ask Me About:** C++, Data Structures & Algorithms, MERN Stack, Node.js, Express.js, MongoDB, REST APIs, Git, Backend Development
 - 🌍 **Based in:** India
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1faRO7pXGEJgIfpy9nhQBzscxsM63riK9/view?usp=sharing)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1gqr7CwEsKK33eGNgoc_nGsdUef2Ix9gp/view?usp=sharing)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&width=100%25" width="100%"/>
 
