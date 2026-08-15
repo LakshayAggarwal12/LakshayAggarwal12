@@ -121,4 +121,13 @@ A Software Developer from India passionate about Backend Engineering, MERN Stack
   <img src="https://komarev.com/ghpvc/?username=LakshayAggarwal12&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Visitor Count"/>
 </p>
 
+<!-- NEW: Closing note -->
+<p align="center">
+  <sub>⭐️ Thanks for stopping by - feel free to explore my pinned repos, or drop a message via any link above.</sub>
+  <br/>
+  <a href="#about"><sub>↑ Back to top</sub></a>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=20&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%"/>
+
