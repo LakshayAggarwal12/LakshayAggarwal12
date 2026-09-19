@@ -93,6 +93,24 @@ A Software Developer from India passionate about Backend Engineering, MERN Stack
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&width=100%25" width="100%"/>
 
+<!-- GitHub Statistics -->
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LakshayAggarwal12&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayAggarwal12&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&width=100%25" width="100%"/>
+
 ### 🎯 Current Focus
 
 - Backend Engineering
