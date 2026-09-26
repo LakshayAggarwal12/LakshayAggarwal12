@@ -1,8 +1,8 @@
 
       <svg
-        width="467"
+        width="370.233332157135"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 370.233332157135 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="369.233332157135"
           fill="#0D1117"
           stroke-opacity="0"
         />
@@ -143,6 +143,7 @@
           transform="translate(0, 55)"
         >
           
+    
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -159,7 +160,6 @@
         data-testid="stars"
       >7</text>
     </g>
-            
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
