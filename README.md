@@ -23,7 +23,7 @@ A Software Developer from India passionate about Backend Engineering, MERN Stack
 - 🎯 **Career Goal:** Software Engineer (Full-Stack Developer)
 - 💬 **Ask Me About:** C++, Data Structures & Algorithms, MERN Stack, Node.js, Express.js, MongoDB, REST APIs, Git, Backend Development
 - 🌍 **Based in:** India
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1gqr7CwEsKK33eGNgoc_nGsdUef2Ix9gp/view?usp=sharing)
+- 📄 **Resume:** [View Resume](https://drive.google.com/drive/folders/1zLCd4_vI87wJ2ZP5tD5sI2nKt8ntizIu?usp=sharing)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&width=100%25" width="100%"/>
 
@@ -158,7 +158,7 @@ A Software Developer from India passionate about Backend Engineering, MERN Stack
   <a href="mailto:lakshayagarwal2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1gqr7CwEsKK33eGNgoc_nGsdUef2Ix9gp/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1zLCd4_vI87wJ2ZP5tD5sI2nKt8ntizIu?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-lakshay__1205-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: lakshay_1205"/>
