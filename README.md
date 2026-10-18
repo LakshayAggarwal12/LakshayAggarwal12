@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- 1. Animated header (twinkling starfield) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Lakshay%20Aggarwal&fontSize=45&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20MERN%20Stack%20|%20Backend%20|%20Generative%20AI&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
+<!-- 1. Animated hero (self-hosted) -->
+<img src="./profile/hero.svg" width="100%" alt="Lakshay Aggarwal, Software Developer"/>
+
+<br/>
 
 <!-- 2. Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+MERN+Stack;Backend+Engineering+%7C+Generative+AI;Building+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- 3. Status badges -->
 <img src="https://img.shields.io/badge/Open%20to-Internships-3fb950?style=for-the-badge" alt="Open to Internships"/>
@@ -29,16 +31,13 @@
 <p align="center"><sub><i>Who I am and what I'm looking for</i></sub></p>
 
 <p align="center">
-I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-integrated products,<br/>
-from REST APIs and databases to deployment.
+  <img src="./profile/about.svg" width="90%" alt="About Lakshay: full-stack and AI-integrated products, 3rd-year B.Tech CSE (Data Science), looking for internships"/>
 </p>
 
 > [!TIP]
-> **Open to internships:** backend, full-stack and software engineering roles. Reach me at [lakshaydev1205@gmail.com](mailto:lakshaydev1205@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/lakshay-aggarwal-dev).
+> **Open to internships and jobs:** backend, full-stack and software engineering roles. Reach me at [lakshaydev1205@gmail.com](mailto:lakshaydev1205@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/lakshay-aggarwal-dev).
 
 <p align="center">
-🎯 <b>Career goal:</b> Software Engineer (Full-Stack)<br/>
-💬 <b>Ask me about:</b> C++, DSA, MERN stack, Node.js, Express, MongoDB, PostgreSQL, REST APIs, Git, backend development<br/>
 📄 <b>Resume:</b> <a href="https://drive.google.com/drive/folders/1zLCd4_vI87wJ2ZP5tD5sI2nKt8ntizIu?usp=sharing">View resume</a>
 </p>
 
@@ -183,7 +182,7 @@ flowchart LR
 <p align="center"><sub><i>Numbers and activity</i></sub></p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Lakshay_Aggarwal12?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/Lakshay_Aggarwal12?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="500"/>
 </p>
 
 <details>
