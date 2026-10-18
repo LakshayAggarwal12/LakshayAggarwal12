@@ -24,7 +24,7 @@
 
 <a id="about"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=About&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="About"/>
+<h2 align="center">▰▰▰ 👋 ABOUT ▰▰▰</h2>
 
 I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-integrated products, from REST APIs and databases to deployment. I'm looking for **backend / full-stack / software engineering internships**.
 
@@ -32,7 +32,7 @@ I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-
 - 💬 **Ask me about:** C++, DSA, MERN stack, Node.js, Express, MongoDB, PostgreSQL, REST APIs, Git, backend development
 - 📄 **Resume:** [View resume](https://drive.google.com/drive/folders/1zLCd4_vI87wJ2ZP5tD5sI2nKt8ntizIu?usp=sharing)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="Featured Projects"/>
+<h2 align="center">▰▰▰ 🚀 FEATURED PROJECTS ▰▰▰</h2>
 
 <!-- TODO: replace the Live / Code links below with exact URLs -->
 
@@ -42,7 +42,7 @@ I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-
 | **TaskFlow** | AI-enhanced project management platform: Kanban boards, sprints, role-based access, analytics, and 4 AI-assisted workflows | MERN, JWT, Groq Llama 3.3, Tailwind | [Live](https://github.com/LakshayAggarwal12?tab=repositories) · [Code](https://github.com/LakshayAggarwal12?tab=repositories) |
 | **Nano-Nanny** | Team-built post-discharge healthcare platform with symptom logging and AI-generated health insights | MERN, Gemini API | [Live](https://github.com/LakshayAggarwal12?tab=repositories) · [Code](https://github.com/LakshayAggarwal12?tab=repositories) |
 
-### 🧩 Architecture
+<h3 align="center">🧩 Architecture</h3>
 
 <details>
 <summary><b>HireSense</b> architecture</summary>
@@ -78,27 +78,51 @@ flowchart LR
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="Tech Stack"/>
+<h2 align="center">▰▰▰ 🛠️ TECH STACK ▰▰▰</h2>
 
-<p align="center"><b>💻 Core</b></p>
+<p align="center"><b>💻 Core Stack</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,tailwind,vite,nodejs,express,fastapi,mongodb,postgres&perline=13" alt="Core stack"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="32"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="32"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="32"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="32"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="32"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="32"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="32"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="32"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="32"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="32"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="32"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="32"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="32"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="32"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="32"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="32"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" height="32"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" height="32"/>
 </p>
 
-<p align="center"><b>🧠 AI / Data</b></p>
+<p align="center"><b>🧠 AI/Data</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" height="28"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="28"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" height="28"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" height="28"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" height="32"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="32"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" height="32"/>
 </p>
 
 <p align="center"><b>🧰 Tools & Deploy</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&perline=6" alt="Tools"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="32"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" height="32"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="32"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="32"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="32"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" height="32"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="32"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=Highlights&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="Highlights"/>
+<h2 align="center">▰▰▰ 🏆 HIGHLIGHTS ▰▰▰</h2>
 
 <table align="center">
   <tr>
@@ -120,7 +144,7 @@ flowchart LR
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=Current%20Focus&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="Current Focus"/>
+<h2 align="center">▰▰▰ 🎯 CURRENT FOCUS ▰▰▰</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Backend_Engineering-58a6ff?style=for-the-badge" alt="Backend Engineering"/>
@@ -130,7 +154,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=Stats%20Dashboard&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="Stats Dashboard"/>
+<h2 align="center">▰▰▰ 📊 STATS DASHBOARD ▰▰▰</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Lakshay_Aggarwal12?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="90%"/>
@@ -151,7 +175,7 @@ flowchart LR
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=70&section=header&text=Connect&fontSize=26&fontColor=58a6ff&fontAlignY=55" width="100%" alt="Connect"/>
+<h2 align="center">▰▰▰ 🔗 CONNECT ▰▰▰</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshay-aggarwal-dev" target="_blank">
