@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+MERN+Stack;Backend+Engineering+%7C+Generative+AI;Building+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- 3. Status badges -->
 <img src="https://img.shields.io/badge/Open%20to-Internships-3fb950?style=for-the-badge" alt="Open to Internships"/>
@@ -22,17 +22,30 @@
 
 </div>
 
+<br/>
+
 <a id="about"></a>
+<h2 align="center">▰▰▰ <code>&nbsp;👋&nbsp;ABOUT&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>Who I am and what I'm looking for</i></sub></p>
 
-<h2 align="center">▰▰▰ 👋 ABOUT ▰▰▰</h2>
+<p align="center">
+I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-integrated products,<br/>
+from REST APIs and databases to deployment.
+</p>
 
-I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-integrated products, from REST APIs and databases to deployment. I'm looking for **backend / full-stack / software engineering internships**.
+> [!TIP]
+> **Open to internships:** backend, full-stack and software engineering roles. Reach me at [lakshaydev1205@gmail.com](mailto:lakshaydev1205@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/lakshay-aggarwal-dev).
 
-- 🎯 **Career goal:** Software Engineer (Full-Stack)
-- 💬 **Ask me about:** C++, DSA, MERN stack, Node.js, Express, MongoDB, PostgreSQL, REST APIs, Git, backend development
-- 📄 **Resume:** [View resume](https://drive.google.com/drive/folders/1zLCd4_vI87wJ2ZP5tD5sI2nKt8ntizIu?usp=sharing)
+<p align="center">
+🎯 <b>Career goal:</b> Software Engineer (Full-Stack)<br/>
+💬 <b>Ask me about:</b> C++, DSA, MERN stack, Node.js, Express, MongoDB, PostgreSQL, REST APIs, Git, backend development<br/>
+📄 <b>Resume:</b> <a href="https://drive.google.com/drive/folders/1zLCd4_vI87wJ2ZP5tD5sI2nKt8ntizIu?usp=sharing">View resume</a>
+</p>
 
-<h2 align="center">▰▰▰ 🚀 FEATURED PROJECTS ▰▰▰</h2>
+<br/>
+
+<h2 align="center">▰▰▰ <code>&nbsp;🚀&nbsp;FEATURED PROJECTS&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>Things I've built and shipped</i></sub></p>
 
 <!-- TODO: replace the Live / Code links below with exact URLs -->
 
@@ -40,9 +53,10 @@ I'm a third-year B.Tech CSE (Data Science) student who builds full-stack and AI-
 |---|---|---|---|
 | **HireSense** | AI-powered resume screening and candidate ranking with explainable ATS scoring (TF-IDF similarity plus an 88-skill spaCy taxonomy) | React, FastAPI, PostgreSQL, spaCy, scikit-learn | [Live](https://hiresense-sepia.vercel.app) · [Code](https://github.com/LakshayAggarwal12?tab=repositories) |
 | **TaskFlow** | AI-enhanced project management platform: Kanban boards, sprints, role-based access, analytics, and 4 AI-assisted workflows | MERN, JWT, Groq Llama 3.3, Tailwind | [Live](https://github.com/LakshayAggarwal12?tab=repositories) · [Code](https://github.com/LakshayAggarwal12?tab=repositories) |
-| **Nano-Nanny** | Team-built post-discharge healthcare platform with symptom logging and AI-generated health insights | MERN, Gemini API | [Live](https://github.com/LakshayAggarwal12?tab=repositories) · [Code](https://github.com/LakshayAggarwal12?tab=repositories) |
 
-<h3 align="center">🧩 Architecture</h3>
+<br/>
+
+<h3 align="center"><code>&nbsp;🧩&nbsp;Architecture&nbsp;</code></h3>
 
 <details>
 <summary><b>HireSense</b> architecture</summary>
@@ -78,7 +92,10 @@ flowchart LR
 
 </details>
 
-<h2 align="center">▰▰▰ 🛠️ TECH STACK ▰▰▰</h2>
+<br/>
+
+<h2 align="center">▰▰▰ <code>&nbsp;🛠️&nbsp;TECH STACK&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>Tools I build with</i></sub></p>
 
 <p align="center"><b>💻 Core Stack</b></p>
 <p align="center">
@@ -122,7 +139,10 @@ flowchart LR
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="32"/>
 </p>
 
-<h2 align="center">▰▰▰ 🏆 HIGHLIGHTS ▰▰▰</h2>
+<br/>
+
+<h2 align="center">▰▰▰ <code>&nbsp;🏆&nbsp;HIGHLIGHTS&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>Milestones so far</i></sub></p>
 
 <table align="center">
   <tr>
@@ -144,7 +164,10 @@ flowchart LR
   </tr>
 </table>
 
-<h2 align="center">▰▰▰ 🎯 CURRENT FOCUS ▰▰▰</h2>
+<br/>
+
+<h2 align="center">▰▰▰ <code>&nbsp;🎯&nbsp;CURRENT FOCUS&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>What I'm going deeper on</i></sub></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Backend_Engineering-58a6ff?style=for-the-badge" alt="Backend Engineering"/>
@@ -154,7 +177,10 @@ flowchart LR
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-<h2 align="center">▰▰▰ 📊 STATS DASHBOARD ▰▰▰</h2>
+<br/>
+
+<h2 align="center">▰▰▰ <code>&nbsp;📊&nbsp;STATS DASHBOARD&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>Numbers and activity</i></sub></p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Lakshay_Aggarwal12?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="90%"/>
@@ -170,12 +196,15 @@ flowchart LR
 
 </details>
 
-<!-- 3D graph is generated by .github/workflows/3d-contrib.yml. Run that workflow once before this image appears. -->
+<!-- Generated daily by .github/workflows/contribution-graph.yml: the 3D graph when available, otherwise the snake -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+  <img src="./profile/contribution-graph.svg" alt="Contribution graph" width="100%"/>
 </p>
 
-<h2 align="center">▰▰▰ 🔗 CONNECT ▰▰▰</h2>
+<br/>
+
+<h2 align="center">▰▰▰ <code>&nbsp;🔗&nbsp;CONNECT&nbsp;</code> ▰▰▰</h2>
+<p align="center"><sub><i>Let's talk</i></sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshay-aggarwal-dev" target="_blank">

@@ -1,0 +1,63 @@
+name: Contribution Graph (3D, snake fallback)
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      # Try the 3D graph first. A failure here must not stop the job.
+      - name: Generate 3D contribution graph
+        continue-on-error: true
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          # Uses PROFILE_PAT if you add that secret, otherwise the default token
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PAT || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Always build the snake too, so there is something to fall back to.
+      - name: Generate snake (fallback)
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Use 3D if available, otherwise snake
+        run: |
+          mkdir -p profile
+          if [ -s profile-3d-contrib/profile-night-rainbow.svg ]; then
+            SRC=profile-3d-contrib/profile-night-rainbow.svg
+            echo "Using the 3D graph"
+          elif [ -s dist/snake-dark.svg ]; then
+            SRC=dist/snake-dark.svg
+            echo "3D graph unavailable, using the snake"
+          else
+            echo "Neither graph could be generated"
+            exit 1
+          fi
+          SRC="$SRC" python3 - <<'PY'
+          import os, re
+          s = open(os.environ["SRC"], encoding="utf-8").read()
+          # Dark backing so it also looks right for light-mode visitors
+          s = re.sub(r"(<svg[^>]*>)", r'\1<rect width="100%" height="100%" fill="#0d1117"/>', s, count=1)
+          open("profile/contribution-graph.svg", "w", encoding="utf-8").write(s)
+          PY
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/contribution-graph.svg
+          git commit -m "chore: update contribution graph" || exit 0
+          git push
